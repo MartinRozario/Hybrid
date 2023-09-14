@@ -36,7 +36,7 @@ jobs:
           Please find attached the automated test report.
           
 #          file://./build/reports/ADAW.html
-        attachments: ./build/reports/ADAWReport.html
+        attachments: ./build/reports/ADAW.html
 
         from: Github Actions
         to: razormart@gmail.com
